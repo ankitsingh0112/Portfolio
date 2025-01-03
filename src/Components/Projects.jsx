@@ -92,7 +92,7 @@ const Projects = () => {
           <p className="py-6">Following projects showcase my skills and experience through real-world examples of my work. Each project is briefly described with links to code repositories and live demos in it. It reflects my ability to solve complex problems, work with different technologies, and manage projects effectively.</p>
         </div>
 
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-0">
           {projects.map(({ id, src, description, tags, github, webapp }) => (
             <div key={id} className="shadow-sm shadow-gray-600 rounded-lg">
               <img
