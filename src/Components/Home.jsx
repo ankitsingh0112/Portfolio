@@ -32,7 +32,7 @@ const Home = () => {
             achieve great things.
           </p>
           <div>
-            <a href="/ankit__resume.pdf" download={true} target="_blank" rel="noreferrer" className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-tr from-[#DA00FF] to-[#9C00FF] cursor-pointer">
+            <a href="/Ankit's_Resume_.pdf" download={true} target="_blank" rel="noreferrer" className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-tr from-[#DA00FF] to-[#9C00FF] cursor-pointer">
             <span className="group-hover:translate-x-2 duration-300">Check Resume </span>
                 
                 <span className="group-hover:translate-x-3 duration-300">
